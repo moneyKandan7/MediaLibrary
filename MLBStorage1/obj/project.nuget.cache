@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7PK1G4N8i7C+czzAv54KB9weSqqlnzHjBX58Tvvcyo88IpaBhaT7o/aSEGtWtfHTFedbCCjbMpDs96VGGISfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELCOT\\Documents\\Media\\MLBStorage1\\MLBStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELCOT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ELCOT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
